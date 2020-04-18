@@ -185,9 +185,6 @@ body {
 }
 
 @media only screen and (max-width: 800px) {
-    #headerlogo {
-        height: 30%;
-        width: 20%;
-        
-       }
+  .logo{
+      height: 20%;
   }
