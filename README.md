@@ -2,7 +2,7 @@
 A front end web development project that displays various Pokemon information based on the users selection.
 
 <p align="center">
- <img src="https://media.giphy.com/media/RfSysWsiNtMe27kKAE/giphy.gif" width="300" height="350" />
+ <img src="/ezgif.com-optimize.gif?raw=true" width="750px">
 </p>
 
 ## Getting Started
